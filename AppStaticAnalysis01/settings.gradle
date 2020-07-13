@@ -1,0 +1,5 @@
+rootProject.name='AppStaticAnalysis01'
+include ':demo01'
+include ':demo02'
+include ':demo03'
+
